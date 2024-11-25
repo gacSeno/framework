@@ -37,3 +37,7 @@ Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 bash
 Copiar código
 npm run dev
+
+
+
+Feito por Gabriel seno e Davi Gamarano
